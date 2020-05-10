@@ -1,0 +1,6 @@
+
+
+
+images:
+    bg: https://pixabay.com/photos/computer-laptop-tech-4795762/
+    bg: https://pixabay.com/photos/computer-laptop-blank-empty-screen-3036166/
